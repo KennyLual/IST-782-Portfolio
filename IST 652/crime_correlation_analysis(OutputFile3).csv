@@ -1,0 +1,23 @@
+CRIME TYPE,TOTAL CRIMES,ARRESTS MADE,ARREST RATE
+MURDER,63,44,0.6984126984126984
+AGGRAVATED ASSAULT,3584,1987,0.5544084821428571
+ROBBERY,1071,356,0.33239962651727356
+RAPE,89,17,0.19101123595505617
+BURGLARY,4032,764,0.18948412698412698
+MV THEFT,2185,389,0.1780320366132723
+LARCENY,10740,1804,0.1679702048417132
+
+
+Correlation Coefficient between Total Crimes and Arrests Made:
+-0.14073091272755892
+
+Conclusion from the Correlation Analysis of Arrests and Types of Crimes:
+
+Conclusion from the Correlation Analysis of Arrests and Types of Crimes:
+
+The analysis of the crime data reveals varying arrest rates for different types of crimes. The highest arrest rate is observed in murder cases (approximately 69.84%), indicating a strong likelihood of arrest following these incidents. Aggravated assault cases also show a relatively high arrest rate of about 55.44%.
+
+On the other hand, crimes such as larceny, motor vehicle theft, and burglary have lower arrest rates, with larceny having the lowest at approximately 16.80%. This suggests that less severe crimes might have a lower priority in arrest procedures or are more challenging to solve.
+
+The correlation coefficient between the total number of crimes and arrests made is -0.1407. This negative correlation, although weak, indicates that as the number of certain types of crimes increases, the proportion of arrests made slightly decreases. This could be due to resource constraints or the nature of these crimes.
+
